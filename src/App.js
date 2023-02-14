@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import{ BrowserRouter as Router, Routes, Route} from "react-router-dom"
 import Header from './components/header/Header';
 import Home from './pages/home/home';
-import MovieList from "C:\\Users\\hp\\Desktop\\imdb\\imdb\\src\\components\\movieList\\movieList.js";
+import MovieList from './components/movieList/movieList'
 import Movie from './pages/movieDetail/movie';
 
 import App from './components/footer/footer';
